@@ -32,9 +32,15 @@ Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion fo
 -  **Project 1:** Diabetes ReAdmission Prevention Project
 -  **Project 2:** Wine Quality Analysis with Machine Learning
 
+## 🚀 Skills
+- **Programming languages:** Python, excel
+- **Data analysis and visualization tools:** Pandas, Matplotlib, Seaborn
+- **Machine learning frameworks and libraries:** Scikit-learn, TensorFlow,scikit-surprise
+- **Models Developed/Worked on:** Supervised, Unsupervised, Neural Networks, Natural Language Processing (NLP), APIs, Transfomers, Ai Applications, Timeseries Forecasting, Ai and Data Ethics etc.
+
 ## 🌱 Fun facts
-- I am an avid gardner and loves to cook spicy foods
-- Love to read books on ancient history and religions
+- I am an avid gardner who loves to cook spicy foods
+- Love to read, especially books on ancient history and religions
 - I take time to enjoy very long walks
 
 ## 🌱 How to reach me
