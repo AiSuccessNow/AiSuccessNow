@@ -33,11 +33,10 @@ Recommender systems
 -  **Project 2:** Wine Quality Analysis with Machine Learning
 
 ## 🌱 Fun fact: ...
-- I am an Avid gardner
-- Love to read and cook spicy food
-- take time to enjopy very long walsk
+- I am an avid gardner and loves to cook spicy foods
+- Love to read books on ancient history and religions
+- I take time to enjoy very long walks
 
 ## 🌱 How to reach me: ...
   - Reach me on linkedin @ https://linkedin/com/in/bizcoachojo
 
-## 🌱
