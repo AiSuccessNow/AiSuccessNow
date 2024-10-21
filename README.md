@@ -18,20 +18,17 @@ Here are some ideas to get you started:
 
 Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion for analysis and exploring ways machines can help solve big life problems.
 🌱   
-
-🔭 I’m currently working on ..
-
+## 🔭 I’m currently working on ..
 - Financial Market Forecasting with the Prophet Model 
 - Predictive Stock Market Analysis with LSTM Neural Networks
 - Stock Portfolio Analysis with Python and Machine Learning
 
-🌱 I’m currently learning …
-
+## 🌱 I’m currently learning …
 - Application of NLP for Sentiment Analysis in the Financial Market
 - Application of Classification Algorithms in the Medicine 
 Recommender systems 
 
-📊 Ai Machine Learning Projects
+## 📊 Ai Machine Learning Projects
 -  **Project 1:** Diabetes ReAdmission Prevention Project
 -  **Project 2:** Wine Quality Analysis with Machine Learning
 
