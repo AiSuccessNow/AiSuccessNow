@@ -23,20 +23,20 @@ Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion fo
 - Predictive Stock Market Analysis with LSTM Neural Networks
 - Stock Portfolio Analysis with Python and Machine Learning
 
-## 🌱 I’m currently learning …
+## 🌱 I’m currently learning / interests
 - Application of NLP for Sentiment Analysis in the Financial Market
-- Application of Classification Algorithms in the Medicine 
-- Deeper application of Ai and Machine Learning to Finance 
+- Classification Algorithms use cases in the Medicinal science 
+- Deeper application of Ai and Machine Learning to finance 
 
-## 📊 Ai Machine Learning Projects
+## 📊 Ai Machine Learning projects 
 -  **Project 1:** Diabetes ReAdmission Prevention Project
 -  **Project 2:** Wine Quality Analysis with Machine Learning
 
-## 🌱 Fun fact: ...
+## 🌱 Fun facts
 - I am an avid gardner and loves to cook spicy foods
 - Love to read books on ancient history and religions
 - I take time to enjoy very long walks
 
-## 🌱 How to reach me: ...
+## 🌱 How to reach me
   - Connect with me on linkedin @ https://linkedin/com/in/bizcoachojo
 
