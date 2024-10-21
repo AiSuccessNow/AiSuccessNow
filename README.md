@@ -26,7 +26,7 @@ Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion fo
 ## 🌱 I’m currently learning …
 - Application of NLP for Sentiment Analysis in the Financial Market
 - Application of Classification Algorithms in the Medicine 
-Recommender systems 
+- Deeper application of Ai and Machine Learning to Finance 
 
 ## 📊 Ai Machine Learning Projects
 -  **Project 1:** Diabetes ReAdmission Prevention Project
