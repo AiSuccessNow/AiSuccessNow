@@ -38,5 +38,5 @@ Recommender systems
 - I take time to enjoy very long walks
 
 ## 🌱 How to reach me: ...
-  - Reach me on linkedin @ https://linkedin/com/in/bizcoachojo
+  - Connect with me on linkedin @ https://linkedin/com/in/bizcoachojo
 
