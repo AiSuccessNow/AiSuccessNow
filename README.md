@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ 
 -->
 
 
 Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion for analysis and exploring ways machines can help solve big life problems.
-🌱   
+   
 ## 🔭 I’m currently working on ..
 - Financial Market Forecasting with the Prophet Model 
 - Predictive Stock Market Analysis with LSTM Neural Networks
@@ -32,3 +32,12 @@ Recommender systems
 -  **Project 1:** Diabetes ReAdmission Prevention Project
 -  **Project 2:** Wine Quality Analysis with Machine Learning
 
+## 🌱 Fun fact: ...
+- I am an Avid gardner
+- Love to read and cook spicy food
+- take time to enjopy very long walsk
+
+## 🌱 How to reach me: ...
+  - Reach me on linkedin @ https://linkedin/com/in/bizcoachojo
+
+## 🌱
