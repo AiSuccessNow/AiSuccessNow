@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion for analysis and exploring ways machines can help solve big life problems.
+Hi My name is Augustine Ojo, a dynamic Ai / Machine Learning enthusiast with passion for analysis and exploring ways machines can help solve big life problems.
    
 ## 🔭 I’m currently working on ..
 - Financial Market Forecasting with the Prophet Model 
