@@ -29,8 +29,9 @@ Hi My name is Augustine Ojo, an Ai / Machine Learning enthusiast with passion fo
 - Deeper application of Ai and Machine Learning to finance 
 
 ## 📊 Ai Machine Learning projects 
--  **Project 1:** Diabetes ReAdmission Prevention Project
--  **Project 2:** Wine Quality Analysis with Machine Learning
+- **Project 1:** Financial Market Analysis With AI and Machine Learning
+- **Project 2:** Diabetes ReAdmission Prevention Project
+- **Project 3:** Wine Quality Analysis with Machine Learning
 
 ## 🚀 Skills
 - **Programming languages:** Python, excel
