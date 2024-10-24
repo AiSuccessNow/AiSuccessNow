@@ -36,7 +36,7 @@ Hi My name is Augustine Ojo, a dynamic Ai / Machine Learning enthusiast with pas
 ## 🚀 Skills
 - **Programming languages:** Python, excel
 - **Data analysis and visualization tools:** Pandas, Matplotlib, Seaborn
-- **Machine learning frameworks and libraries:** Scikit-learn, TensorFlow,scikit-surprise
+- **Machine learning frameworks and libraries:** Scikit-learn, TensorFlow, NLP
 - **Models Developed/Worked on:** Supervised, Unsupervised, Neural Networks, Natural Language Processing (NLP), APIs, Transfomers, Ai Applications, Timeseries Forecasting, Ai and Data Ethics etc.
 
 ## 🌱 Fun facts
