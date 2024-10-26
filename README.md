@@ -30,6 +30,9 @@ Hi My name is Augustine Ojo, a dynamic Ai / Machine Learning enthusiast with pas
 
 ## 📊 Ai Machine Learning projects 
 - [**Project 1:**](https://github.com/AiSuccessNow/Financial-Analysis-With-AI.ML.git) Financial Market Analysis With AI and Machine Learning
+   -    with Python,
+   -    The Prophet model and
+   -    Long Short Term Memory (LSTM) Neural Networks 
 - [**Project 2:**](https://github.com/AiSuccessNow/Diabetes_ReAdmission_Prevention_Project.git) Diabetes ReAdmission Prevention Project
 - [**Project 3:**](https://github.com/AiSuccessNow/Wine-Quality-Analysis.git) Wine Quality Analysis with Machine Learning
 
