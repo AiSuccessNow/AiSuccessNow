@@ -21,12 +21,12 @@ Thank you for stopping by. My name is Augustine Ojo, a predictive financial anal
 ## 🔭 I’m currently working on ..
 - Financial Market Forecasting with the Prophet Model 
 - Predictive Stock Market Analysis with LSTM Neural Networks
-- Stock Portfolio Analysis with Python and Machine Learning
 
 ## 🌱 I’m currently learning / interests
 - Application of NLP for Sentiment Analysis in the Financial Market
 - Classification Algorithms use cases in the Medicinal science 
-- Deeper application of Ai and Machine Learning to finance 
+- Deeper application of Ai and Machine Learning to finance
+- Application of R programming language in Financial Analysis
 
 ## 📊 Ai Machine Learning projects 
 - [**Project 1:**](https://github.com/AiSuccessNow/Financial-Analysis-With-AI.ML.git) Financial Market Analysis, Forecasting and Predictive modelling With AI and Machine Learning
