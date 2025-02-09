@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Thank you for stopping by. My name is Augustine Ojo, a predictive financial analyst with passion for analysis, forecasting and with an insatiable desire to use Ai and Machine Learning to solve real world problems to drive and defend competitive advantages in business and in life.  Equipped with an MBA degree, schooled in traditional technical analysis and skilled in Python, Pandas, Matplotlib, Sklearn Seaborn, visualizations, etc. with proficiency in building models with Prophet, CNN, RNN, LSTM, NLP etc., he is versed in building and deploying AI and machine learning models and has competently worked with structured, semi-structured, and raw data with Ai and ML models to forecast and make predictions about future prices and market trends a dynamic Ai / Machine Learning enthusiast with passion for analysis and exploring ways machines can help solve big life problems.
+Welcome! I'm Augustine Ojo, a predictive financial analyst leveraging AI and Machine Learning to forecast market trends and drive competitive advantage.
+Armed with an MBA and expertise in traditional fundamental and technical analysis, I specialize in building and deploying AI-driven financial models using Python, Pandas, Sklearn, and advanced deep learning architectures (Prophet, CNN, RNN, LSTM, NLP). I thrive in extracting insights from structured and unstructured data to predict future price movements and uncover market opportunities.
+Passionate about the intersection of AI, finance, and strategic decision-making, I continuously push the boundaries of predictive analytics to solve real-world challenges. Let’s innovate the future of finance with AI.
    
 ## 🔭 I’m currently working on ..
 - Financial Market Forecasting with the Prophet Model 
